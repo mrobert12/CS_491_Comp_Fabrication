@@ -183,6 +183,6 @@ broke off due to the stress of the strings after a while.
 <div id="proj-images" style="display:flex; justify-content:center; gap:25px;">
     <figure>
         <img class="long-img" style="border-radius:50px; width:900px; height:280px;"src="Ukulele/ProjectUpdate/Body photos/20231206_205426.jpg">
-        <figcaption style="text-align:center; color:white; font-weight:bold">Printed body</figcaption>
+        <figcaption style="text-align:center; color:white; font-weight:bold">Finished Instrument</figcaption>
     </figure>
 </div>
